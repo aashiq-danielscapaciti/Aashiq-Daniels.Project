@@ -13,6 +13,8 @@
 
 ### Sources 
  - We recieved our info from the schools website, as well information from the course we were doing.
+ - In getting extra information we used w3 schools.com; getboostrap.com. 
+ - 
 
 ### Features of the website
 - Markup of HTML; CSS and Bootstrap
@@ -23,6 +25,6 @@
 
 
 
-
+                                    
 
 
