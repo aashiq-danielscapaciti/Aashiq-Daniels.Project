@@ -1,4 +1,4 @@
-# Aashiq-Daniels.Project
+# Code Slayers/ Team Member- Tiffany; Tarryn; Tammy; Aashiq; Ryan
 
 ## Mzamomtsha Primary School.Project 
  
@@ -14,7 +14,7 @@
 ### Sources 
  - We recieved our info from the schools website, as well information from the course we were doing.
  - In getting extra information we used w3 schools.com; getboostrap.com. 
- - 
+ 
 
 ### Features of the website
 - Markup of HTML; CSS and Bootstrap
@@ -22,7 +22,11 @@
 ### Technologies
  In dealing with the website we used visual studio; and the full use of "Micro- Soft Edge"
  - We used different markup languges such as HTML/ CSS
-
+ 
+ ### Inspiration/ Motivation 
+ - Our main goal is to improve the online service for the school. To make it accessible for online government, students parents, ect. 
+ 
+ 
 
 
                                     
